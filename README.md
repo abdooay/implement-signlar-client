@@ -1,0 +1,1 @@
+# Implement signalr without generated proxy
